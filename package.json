@@ -1,6 +1,6 @@
 {
   "name": "tiktok-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Node.js SDK for TikTok OAuth integration",
   "main": "dist/index.js",
   "scripts": {
