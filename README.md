@@ -8,7 +8,7 @@ This library exports the base class "TiktokSDK"
 Example:
 
 ```
-const {TiktokSDK} = require('../dist/index.js');
+const {TiktokSDK} = require('tiktok-sdk');
 
 const tiktokInstance = new TiktokSDK('clientKey', 'clientSecret');
 
