@@ -1,0 +1,31 @@
+{
+  "name": "tiktok-sdk",
+  "version": "1.0.0",
+  "description": "Simple Node.js SDK for TikTok OAuth integration",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "npm run build",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianobar/node-tiktok-sdk.git"
+  },
+  "keywords": [
+    "TikTok",
+    "OAuth"
+  ],
+  "author": "Sebastiano Barravecchia",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/sebastianobar/node-tiktok-sdk/issues"
+  },
+  "homepage": "https://github.com/sebastianobar/node-tiktok-sdk#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  },
+  "dependencies": {
+    "axios": "^0.22.0"
+  }
+}
