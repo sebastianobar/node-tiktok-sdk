@@ -14,9 +14,9 @@ type authResponse = {
 type authErrorResponse = {
   data: {
     captcha: string;
-    "desc_url": string;
-    "description": string;
-    "error_code": number
+    desc_url: string;
+    description: string;
+    error_code: number
   };
   message: string
 };
