@@ -20,4 +20,4 @@ tiktokInstance.auth.getAccessToken('authCode')
   )
 ```
 
-See docs for references
+See docs for references: https://sebastianobar.github.io/node-tiktok-sdk/index.html
